@@ -1,0 +1,4 @@
+/home/ahcl/Line/Training/cMakeLearning/build/CMakeFiles/rebuild_cache.dir
+/home/ahcl/Line/Training/cMakeLearning/build/CMakeFiles/edit_cache.dir
+/home/ahcl/Line/Training/cMakeLearning/build/CMakeFiles/test.dir
+/home/ahcl/Line/Training/cMakeLearning/build/CMakeFiles/toDo.dir

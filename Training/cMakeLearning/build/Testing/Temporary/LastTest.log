@@ -1,0 +1,19 @@
+Start testing: Apr 29 13:49 +07
+----------------------------------------------------------
+1/1 Testing: toDoTest
+1/1 Test: toDoTest
+Command: "/home/ahcl/Line/Training/cMakeLearning/build/toDo"
+Directory: /home/ahcl/Line/Training/cMakeLearning/build
+"toDoTest" start time: Apr 29 13:49 +07
+Output:
+----------------------------------------------------------
+Test passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"toDoTest" end time: Apr 29 13:49 +07
+"toDoTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 29 13:49 +07
