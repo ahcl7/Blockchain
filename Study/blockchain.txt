@@ -1,0 +1,21 @@
+proof of work
+dai khai la mo co che - mot cong viec tinh toan doi hoi nhieu phep tinh toan, low probability. Moi block co 1 cai proof of work. Neu attacker muon thay doi 1 block thi phai tinh lai proof of work tu 
+block do den block cuoi cung, dieu nay co the xem la khong the vi khoi luong cong viec la qua nhieu.
+
+blockchain
+la mot chuoi cac block, duoc gan ket voi nhau nhu mot day xich, bat bien, an toan, public, decentralize
+
+mining
+mining node, lay cac broadcast transactions ve, sap xep theo gas price theo thu tu giam dan (optional), validate transactions (optional - co the bo qua vi li do thoi gian, nhung neu co transaction bi loi
+thi ca block se khong dc cong nhan), sinh ra proof of work (random) => tao ra block moi => broadcast block moi vao network => cac node khac validate block => them vao blockchain neu dc su dong y cua cac node khac
+
+transaction
+giao dich tren blockchain, 1 block se chua nhieu transaction, phai dc sign truoc khi broadcast to network, gas limit, gasprice, from, to, value, ... 
+
+
+
+monero
+thong tin giao dich han che, trong do thong tin nguoi gui nguoi nhan dc giu bi mat => thu hut mua ban trai phep (cho den) + khong the xem thong tin transaction (untracable)
+
+
+
